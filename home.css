@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-image: url(./Captura\ de\ Tela\ \(8\).png);
+    background-repeat: no-repeat;
+    background-position: top-center;
+    background-size: cover;
+}
+#container {
+    height: 360px;
+    width: 720px;
+    border: 1px solid red;
+}
