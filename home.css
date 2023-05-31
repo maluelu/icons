@@ -8,8 +8,29 @@ body {
     background-position: top-center;
     background-size: cover;
 }
+body * {
+color: white;
+margin-left: 50px;
+}
 #container {
-    height: 360px;
-    width: 720px;
+   
+    width: 360px;
     border: 1px solid red;
+    margin: auto;
+  
+
+}
+#profile img {
+    display: block;
+    width: 190px;
+    border: 4px solid white;
+    border-radius: 50%;    
+    margin-top: 30px;
+}
+.profile {
+ text-align: center;
+}
+p {
+    font-size: 30px;
+    margin-left: 50px;
 }
